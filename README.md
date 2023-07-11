@@ -2,6 +2,7 @@
 
 ### Work Experience
 Data Governance Analyst @ Certis Group
+
 Big Impact Project 1
   - Establish and implement the data governance framework and processes to manage the data throughout its lifecycle for the enterprise.
 Big Impact Project 2
