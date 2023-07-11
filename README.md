@@ -1,7 +1,7 @@
 # Data Governance Analyst
 
 ### Work Experience
-Data Governance Analyst @ Certis Group
+1. Data Governance Analyst @ Certis Group
 
 - Big Impact Project 1
   - Establish and implement the data governance framework and processes to manage the data throughout its lifecycle for the enterprise.
@@ -12,15 +12,17 @@ Data Governance Analyst @ Certis Group
 - Big Impact Project 4
   - Design and deliver data management training programs, in addition to leading the rollout of associated communications to internal stakeholders. 
 
-Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 
+2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 
 
 https://academy.smu.edu.sg/advanced-certificate-spreadsheet-analytics-acsa-6846 
-●	Project 1:
-- Develop and deliver comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing adults’ learning in understanding of complex data analysis and decision-making techniques. 
-●	Project 2:
-- Utilized advanced knowledge of spreadsheet tools, including Microsoft Excel and Google Sheets, to train and mentor adult students on data manipulation, data visualization and analytical modeling. 
- ● Project 3:
-- Provide guidance to adult learners on the practice application of spreadsheets analytics in various business use cases. 
+-	 Project 1:
+   - Develop and deliver comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing adults’ learning in understanding of complex data 
+     analysis and decision-making techniques. 
+-	 Project 2:
+   - Utilized advanced knowledge of spreadsheet tools, including Microsoft Excel and Google Sheets, to train and mentor adult students on data manipulation, data visualization and 
+     analytical modeling. 
+-  Project 3:
+   - Provide guidance to adult learners on the practice application of spreadsheets analytics in various business use cases. 
 
 ### Professional Education
 ENTERPRISE ARCHITECTURE PRACTITIONER	
