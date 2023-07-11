@@ -2,13 +2,13 @@
 
 ### Work Experience
 Data Governance Analyst @ Certis Group
-●	Big Impact Project 1
+Big Impact Project 1
   - Establish and implement the data governance framework and processes to manage the data throughout its lifecycle for the enterprise.
-●	Big Impact Project 2
+Big Impact Project 2
   - Develop and set data standards across the enterprise to facilitate data collaboration and analysis across industry data and enable interoperability of systems.
-●	Big Impact Project 3
+Big Impact Project 3
   - Hands-on experience in leading PoC data catalog tool (i.e., Microsoft Purview) for sensitive data discovery, lineage, and visualization. 
-● Big Impact Project 4
+Big Impact Project 4
   - Design and deliver data management training programs, in addition to leading the rollout of associated communications to internal stakeholders. 
 
 Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 	
