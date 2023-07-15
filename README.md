@@ -45,9 +45,11 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 – National University of Singapore – Institute of Systems Science (Accredited by The Open Group) 
 ### ADVANCED CERTIFICATE IN LEARNING AND PERFORMANCE (ACLP)                                                      
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences (Cert No. 100031284)
-### CERTIFIED SCRUM MASTER - Scrum Alliance	
+### Certified Scrum Master - Scrum Alliance	
 ![Digital Badges](/assets/img/scrum-foundation-professional-certificate-sfpc.1_120px.png) 
-### ENTERPRISE DESIGN THINKING PRACTITIONER - IBM	
+### Enterprise Design Thinking Graduate - IBM	
+![Digital Badges](/assets/img/enterprise-design-thinking-graduate-certificate.png) 
+### Enterprise Design Thinking Practitioner - IBM	
 ![Digital Badges](/assets/img/enterprise-design-thinking-practitioner.png) 
 ### i.am vitalize_AI Track - IBM
 ![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
