@@ -40,7 +40,8 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
      techniques effectively in their workplaces by 50%. . 
 
 ### Professional Education
-ENTERPRISE ARCHITECTURE PRACTITIONER	
+
+### Enterprise Architecture Practitioner 	
 – National University of Singapore – Institute of Systems Science (Accredited by The Open Group) 
 ### ADVANCED CERTIFICATE IN LEARNING AND PERFORMANCE (ACLP)                                                      
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences
