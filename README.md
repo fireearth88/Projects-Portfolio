@@ -51,9 +51,10 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 ![Digital Badges](/assets/img/enterprise-design-thinking-practitioner.png) 
 ### i.am vitalize_AI Track - IBM
 ![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
-###  Artificial Intelligence Practitioner
+###  Artificial Intelligence Practitioner - IBM
 ![Digital Badges](/assets/img/ibm-artificial-intelligence-practitioner-certificate.1.png)
-  
+###  Data Science Practitioner - IBM
+![Digital Badges](/assets/img/ibm-data-science-practitioner-certificate.1.png)  
 ## Academic Education						       		
 - M.S., Consumer Electronics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Electronic & Electrical Engineering | The University of Texas at Dallas (_May 2017_)
