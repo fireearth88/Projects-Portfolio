@@ -68,8 +68,8 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 
 ## Academic Education						       		
-- M.S., Consumer Electronics	| Nanyang Technological University 
-  – Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758  	 			        		
-- B.S., Electronic & Electrical Engineering | University of Surrey 
+- M.S., Consumer Electronics	| Nanyang Technological University @ Singapore
+– Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758  	 			        		
+- BEng., Electronic & Electrical Engineering | University of Surrey @ United Kingdom
   
 
