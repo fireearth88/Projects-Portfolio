@@ -14,16 +14,16 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 #### **Enterprise-Wide Data Standards**
   - Developed and implementated data standards across the enterprise, facilitating data collaboration and analysis across 2 key industries and enhancing system
     interoperability by 40%. 
-    **Cross-Functional Collaboration**
+#### **Cross-Functional Collaboration**
   - Played the role of secretariat to establish close collaboration with senior-level executives (members of DG Council/C-Suite), data owners and stewards to organize
     meetings, track progress, and providing the support to ensure that data governance activities are carried out effectively.
   - Fostered unified understanding of data governance across the enterprise, leading to a 30% improvement data management practices.
-    **Data Management Solution Implementation**
-  - Led 10+ requirements gathering sessions, engaging with 3 vendors and numerous internal stakeholders to implement critical data management solutions, leading to a 30% 
+#### **Data Management Solution Implementation**
+  -  Led 10+ requirements gathering sessions, engaging with 3 vendors and numerous internal stakeholders to implement critical data management solutions, leading to a 30% 
      increase in data quality and usability.
-     **Leading PoC Data Catalog Tool Usage**
+#### **Leading PoC Data Catalog Tool Usage**
   - Leveraged Mircosoft Purview in PoC, identifying and cataloging 100+ sensitive data elements and visualizing data lineage for 10,000+ datasets.
-    **Data Management Training and Communication**
+#### **Data Management Training and Communication**
   - Designed and delivered comprehensive data management training to 500+ employees, leading the rollout of associated communications and resulting in 60% increase in
     awareness and understanding of data management protocols across the enterprise.  
 
