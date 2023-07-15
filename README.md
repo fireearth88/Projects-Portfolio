@@ -37,12 +37,14 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
    **Training Module Development**   
    - Developed and delivered comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing data analysis and decision-making
      comprehension for over 200 adults’ learners.
+     
    **Mastery of Spreadsheet Tools**   
    - Used advanced knowledge of MS Excel and Google Sheets to train and mentor over 200 adult students, improving their abilities in data manipulation, data visualization and 
      analytical modeling.
+     
    **Real World Application Guidance**  
    - Provide practical guidance to 200+ adult learners on the application of spreadsheets analytics across 5+ business use cases, increasing their ability to apply these 
-     techniques effectively in their workplaces by 50%. . 
+     techniques effectively in their workplaces by 50%. 
 
 ## Professional Education
 
@@ -74,10 +76,10 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 ## Academic Education						       		
 - M.SC., Consumer Electronics
-  Nanyang Technological University @ Singapore, 
+  Nanyang Technological University  Singapore, 
   Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758
   	 			        		
 - BEng., Electronic & Electrical Engineering
-  University of Surrey @ United Kingdom
+  University of Surrey      @ United Kingdom
   
 
