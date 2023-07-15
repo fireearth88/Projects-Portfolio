@@ -68,10 +68,8 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 
 ## Academic Education						       		
-- M.S., Consumer Electronics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Electronic & Electrical Engineering | The University of Texas at Dallas (_May 2017_)
+- M.S., Consumer Electronics	| Nanyang Technological University 
+  – Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758  	 			        		
+- B.S., Electronic & Electrical Engineering | University of Surrey 
   
-### Academic Education
-MASTER OF SCIENCE IN CONSUMER ELECTRONICS	Jul 2001
-– Nanyang Technological University  
-– Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758  
+
