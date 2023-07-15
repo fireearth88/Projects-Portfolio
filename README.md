@@ -39,7 +39,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
    - Provide practical guidance to 200+ adult learners on the application of spreadsheets analytics across 5+ business use cases, increasing their ability to apply these 
      techniques effectively in their workplaces by 50%. . 
 
-### Professional Education
+## Professional Education
 
 ### Enterprise Architecture Practitioner 	
 – National University of Singapore – Institute of Systems Science (Accredited by The Open Group) 
