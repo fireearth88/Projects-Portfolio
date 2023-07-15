@@ -1,6 +1,7 @@
 # Data Governance Analyst
 
-#### Technical Skills: Python, SQL, Data Catalog Tools (Alex, MS Purview), Power Excel (Power Query, Power Pivot, DAX), MS Power BI, Cloud Computing 
+#### Skills
+Python, SQL, Data Catalog Tools (Alex, MS Purview), Power Excel (Power Query, Power Pivot, DAX), MS Power BI, VPA, Cloud Computing 
 
 #### Professional Summary
 Detailed-oriented and strategically focused Data Governance Analyst with experience in data management and analytics. Proven expertise in implementing data governance strategies, enhancing data quality, and ensuring regulatory compliance. Adept at collaborating cross-functionally to bridge the gap between technical and non-technical stakeholders while creating a culture of data-driven decision-making. 
