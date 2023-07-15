@@ -45,19 +45,16 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 – National University of Singapore – Institute of Systems Science (Accredited by The Open Group) 
 ### ADVANCED CERTIFICATE IN LEARNING AND PERFORMANCE (ACLP)                                                      
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences
-### CERTIFIED SCRUM MASTER 	
-– Scrum Alliance 
-### ENTERPRISE DESIGN THINKING PRACTITIONER 	
-– IBM
-### i.am vitalize_AI Track
-- IBM
+### CERTIFIED SCRUM MASTER - Scrum Alliance	
+![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png) 
+### ENTERPRISE DESIGN THINKING PRACTITIONER - IBM	
+![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png) 
+### i.am vitalize_AI Track - IBM
 ![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
 
 ###  Artificial Intelligence Practitioner
-- IBM
-  
 ![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
-
+  
 ## Academic Education						       		
 - M.S., Consumer Electronics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Electronic & Electrical Engineering | The University of Texas at Dallas (_May 2017_)
