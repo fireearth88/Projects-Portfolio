@@ -51,7 +51,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 ### Enterprise Architecture Practitioner 	
 – National University of Singapore – Institute of Systems Science (Accredited by The Open Group) 
-### ADVANCED CERTIFICATE IN LEARNING AND PERFORMANCE (ACLP)                                                      
+### Advanced Certficate in Learning & Performance (ACLP)                                                      
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences (Cert No. 100031284)
 ### Certified Scrum Master - Scrum Alliance	
 ![Digital Badges](/assets/img/scrum-foundation-professional-certificate-sfpc.1_120px.png) 
