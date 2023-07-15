@@ -47,6 +47,16 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences (Cert No. 100031284)
 ### Certified Scrum Master - Scrum Alliance	
 ![Digital Badges](/assets/img/scrum-foundation-professional-certificate-sfpc.1_120px.png) 
+###  Data Science Practitioner - IBM
+![Digital Badges](/assets/img/ibm-data-science-practitioner-certificate.1.png)  
+### i.am vitalize_AI Track - IBM
+![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
+### AI in Business - IBM
+![Digital Badges](/assets/img/ai-in-business.png)
+###  Artificial Intelligence Practitioner - IBM
+![Digital Badges](/assets/img/ibm-artificial-intelligence-practitioner-certificate.1.png)
+### Enterprise Design Thinking Practitioner - IBM	
+![Digital Badges](/assets/img/enterprise-design-thinking-practitioner.png)
 ### Enterprise Design Thinking Graduate - IBM	
 ![Digital Badges](/assets/img/enterprise-design-thinking-graduate-certificate.png) 
 ### Enterprise Design Thinking Practitioner - IBM	
@@ -55,12 +65,6 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 ![Digital Badges](/assets/img/enterprise-design-thinking-co-creator.png) .png) 
 ### Enterprise Design Thinking Team Essentials For AI - IBM	
 ![Digital Badges](/assets/img/enterprise-design-thinking-team-essentials-for-ai.png) 
-### i.am vitalize_AI Track - IBM
-![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png)
-###  Artificial Intelligence Practitioner - IBM
-![Digital Badges](/assets/img/ibm-artificial-intelligence-practitioner-certificate.1.png)
-###  Data Science Practitioner - IBM
-![Digital Badges](/assets/img/ibm-data-science-practitioner-certificate.1.png)  
 
 
 ## Academic Education						       		
