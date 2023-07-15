@@ -7,7 +7,7 @@
 Detailed-oriented and strategically focused Data Governance Analyst with experience in data management and analytics. Proven expertise in implementing data governance strategies, enhancing data quality, and ensuring regulatory compliance. Adept at collaborating cross-functionally to bridge the gap between technical and non-technical stakeholders while creating a culture of data-driven decision-making. 
 
 ### Work Experience
-### 1. Data Governance Analyst @ Certis Group  (_June 2021 - Present_)**
+### 1. Data Governance Analyst @ Certis Group  (_June 2021 - Present_)
 #### **Data Governance Implementation**
   - Successfully established and implemented the data governance framework and processes, improving data lifecycle management across 5 business units and increasing overall 
     data integrity by 30%.
@@ -27,7 +27,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
   - Designed and delivered comprehensive data management training to 500+ employees, leading the rollout of associated communications and resulting in 60% increase in
     awareness and understanding of data management protocols across the enterprise.  
 
-2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 
+### 2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 
     https://academy.smu.edu.sg/advanced-certificate-spreadsheet-analytics-acsa-6846 
    - Develop and deliver comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing adults’ learning in understanding of complex
      data analysis and decision-making techniques. 
