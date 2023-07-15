@@ -46,7 +46,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 ### ADVANCED CERTIFICATE IN LEARNING AND PERFORMANCE (ACLP)                                                      
 – Institute for Adult Learning Singapore (IAL) & Singapore University of Social Sciences
 ### CERTIFIED SCRUM MASTER - Scrum Alliance	
-![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png) 
+![Digital Badges](/assets/img/scrum-foundation-professional-certificate-sfpc.1_120px.png) 
 ### ENTERPRISE DESIGN THINKING PRACTITIONER - IBM	
 ![Digital Badges](/assets/img/i-am-vitalize_ai-track_120px.png) 
 ### i.am vitalize_AI Track - IBM
