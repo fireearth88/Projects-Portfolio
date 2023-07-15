@@ -14,28 +14,28 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
   **Enterprise-Wide Data Standards**
   - Developed and implementated data standards across the enterprise, facilitating data collaboration and analysis across 2 key industries and enhancing system
     interoperability by 40%. 
-#### **Cross-Functional Collaboration**
+  **Cross-Functional Collaboration**
   - Played the role of secretariat to establish close collaboration with senior-level executives (members of DG Council/C-Suite), data owners and stewards to organize
     meetings, track progress, and providing the support to ensure that data governance activities are carried out effectively.
   - Fostered unified understanding of data governance across the enterprise, leading to a 30% improvement data management practices.
-#### **Data Management Solution Implementation**
+  **Data Management Solution Implementation**
   -  Led 10+ requirements gathering sessions, engaging with 3 vendors and numerous internal stakeholders to implement critical data management solutions, leading to a 30% 
      increase in data quality and usability.
-#### **Leading PoC Data Catalog Tool Usage**
+  **Leading PoC Data Catalog Tool Usage**
   - Leveraged Mircosoft Purview in PoC, identifying and cataloging 100+ sensitive data elements and visualizing data lineage for 10,000+ datasets.
-#### **Data Management Training and Communication**
+  **Data Management Training and Communication**
   - Designed and delivered comprehensive data management training to 500+ employees, leading the rollout of associated communications and resulting in 60% increase in
     awareness and understanding of data management protocols across the enterprise.  
 
 ### 2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy  (_Oct 2021 - Present_)
        - https://academy.smu.edu.sg/advanced-certificate-spreadsheet-analytics-acsa-6846 
-  #### **Training Module Development**   
+   **Training Module Development**   
    - Developed and delivered comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing data analysis and decision-making
      comprehension for over 200 adults’ learners.
-  #### **Mastery of Spreadsheet Tools**   
+   **Mastery of Spreadsheet Tools**   
    - Used advanced knowledge of MS Excel and Google Sheets to train and mentor over 200 adult students, improving their abilities in data manipulation, data visualization and 
      analytical modeling.
-  #### **Real World Application Guidance**  
+   **Real World Application Guidance**  
    - Provide practical guidance to 200+ adult learners on the application of spreadsheets analytics across 5+ business use cases, increasing their ability to apply these 
      techniques effectively in their workplaces by 50%. . 
 
@@ -68,8 +68,10 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 
 ## Academic Education						       		
-- M.S., Consumer Electronics| Nanyang Technological University @ Singapore, 
+- M.SC., Consumer Electronics
+  Nanyang Technological University @ Singapore, 
   Subject of Thesis: https://dr.ntu.edu.sg/handle/10356/3758  	 			        		
-- BEng., Electronic & Electrical Engineering | University of Surrey @ United Kingdom
+- BEng., Electronic & Electrical Engineering
+  University of Surrey @ United Kingdom
   
 
