@@ -8,7 +8,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 
 ### Work Experience
 ### 1. Data Governance Analyst @ Certis Group  (_June 2021 - Present_)**
-   **Data Governance Implementation**
+### **Data Governance Implementation**
   - Successfully established and implemented the data governance framework and processes, improving data lifecycle management across 5 business units and increasing overall 
     data integrity by 30%.
     **Enterprise-Wide Data Standards**
