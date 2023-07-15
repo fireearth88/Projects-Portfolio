@@ -27,8 +27,8 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
   - Designed and delivered comprehensive data management training to 500+ employees, leading the rollout of associated communications and resulting in 60% increase in
     awareness and understanding of data management protocols across the enterprise.  
 
-### 2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy 
-    https://academy.smu.edu.sg/advanced-certificate-spreadsheet-analytics-acsa-6846 
+### 2. Adjunct Trainer, Advanced Certificate in Spreadsheet Analytics @ SMU Academy  (_Oct 2021 - Present_)
+   - https://academy.smu.edu.sg/advanced-certificate-spreadsheet-analytics-acsa-6846 
    - Develop and deliver comprehensive training modules for the Advanced Certificate in Spreadsheets Analytics program, enhancing adults’ learning in understanding of complex
      data analysis and decision-making techniques. 
    - Utilized advanced knowledge of spreadsheet tools, including Microsoft Excel and Google Sheets, to train and mentor adult students on data manipulation, data visualization
