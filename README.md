@@ -62,7 +62,7 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
 ### Enterprise Design Thinking Practitioner - IBM	
 ![Digital Badges](/assets/img/enterprise-design-thinking-practitioner.png) 
 ### Enterprise Design Thinking co-creator - IBM	
-![Digital Badges](/assets/img/enterprise-design-thinking-co-creator.png) .png) 
+![Digital Badges](/assets/img/enterprise-design-thinking-co-creator.png) 
 ### Enterprise Design Thinking Team Essentials For AI - IBM	
 ![Digital Badges](/assets/img/enterprise-design-thinking-team-essentials-for-ai.png) 
 
