@@ -46,7 +46,10 @@ Detailed-oriented and strategically focused Data Governance Analyst with experie
      
    **Real World Application Guidance**  
    - Provide practical guidance to 200+ adult learners on the application of spreadsheets analytics across 5+ business use cases, increasing their ability to apply these 
-     techniques effectively in their workplaces by 50%. 
+     techniques effectively in their workplaces by 50%.
+
+## Data Science Projects
+https://github.com/fireearth88/Portfolio/blob/main/README.md 
 
 ## Professional Education
 
